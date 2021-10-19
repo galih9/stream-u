@@ -1,0 +1,23 @@
+{
+  "name": "streams",
+  "version": "1.0.0",
+  "description": "StreamU for U",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup" : "cd api && npm i && cd ../ && cd client && npm i && cd ../ && cd rtmp && npm i && cd ../",
+    "start-server": "cd api && npm run start",
+    "start-client": "cd client && npm run start",
+    "start-rtmp": "cd rtmp && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galih9/stream-u.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galih9/stream-u/issues"
+  },
+  "homepage": "https://github.com/galih9/stream-u#readme"
+}
