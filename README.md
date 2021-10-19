@@ -19,5 +19,10 @@ Simply run `npm run setup`
 3. And then open another new command line and run `npm run start-rtmp`
 4. Open your browser
 
+# Features
+1. Contains basic CRUD element
+2. Login and Register with google firebase
+3. Stream your screen locally with node-media-server
+
 # ScreenShots
 ![Screenshot1](https://drive.google.com/uc?export=view&id=1UN3Pa3OIdQXroU9bDX_-B9flTW_xjxkc "StreamU")
