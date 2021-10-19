@@ -20,4 +20,4 @@ Simply run `npm run setup`
 4. Open your browser
 
 # ScreenShots
-![Screenshot1](https://drive.google.com/uc?export=view&id=1nN-e-cC2uy7q0UDi3FdbadTHlx4qwFMn "StreamU")
+![Screenshot1](https://drive.google.com/uc?export=view&id=1UN3Pa3OIdQXroU9bDX_-B9flTW_xjxkc "StreamU")
